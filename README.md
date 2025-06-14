@@ -3,7 +3,7 @@
 🔍 Overview
 This project is a complete data analytics pipeline starting from raw flat files, going through SQL querying, data preprocessing in Excel, and finally culminating in a comprehensive Pizza Sales Dashboard. The goal was to uncover sales trends, customer behavior, and product performance for a fictitious pizza business using real analytical workflows.
 
-🧰 Tools Used
+## 🧰 Tools Used
 SQL Server Management Studio (SSMS)
 
 Microsoft Excel (Pivot Tables, Charts, Dashboard)
@@ -12,7 +12,7 @@ Power Query
 
 Basic Excel Functions (e.g., COUNTIF, DAX-like logic)
 
-🛠️ Project Workflow
+## 🛠️ Project Workflow
 Data Import to SSMS
 
 Loaded the raw flat file dataset into SQL Server.
@@ -45,7 +45,7 @@ Formatted and cleaned up numerical outputs (e.g., currency formatting, rounding)
 
 Pivot Tables for Insights
 
-Created dedicated pivot tables for:
+## Created dedicated pivot tables for:
 
 Daily and hourly trends
 
@@ -57,7 +57,7 @@ KPI summary block
 
 Dashboard Creation
 
-Designed an interactive Excel dashboard summarizing:
+## Designed an interactive Excel dashboard summarizing:
 
 KPIs
 
@@ -69,7 +69,13 @@ Best vs. worst sellers
 
 Visual filters for time-based exploration (slicers)
 
-📈 Key Insights
+## 📸 Dashboard Preview
+
+⚡ The dashboard provides clear, visually rich insight into what’s selling, when, and why.
+![image](https://github.com/user-attachments/assets/e6e0233e-33fc-444a-b3c3-864bceb2beb7)
+
+
+## 📈 Key Insights
 Peak Order Days: Friday & Saturday
 
 Peak Hours: 12 PM to 1 PM and 5 PM–8 PM
@@ -82,7 +88,7 @@ Least Selling Pizza: The Brie Carre Pizza
 
 Most Popular Size: Large
 
-🚀 What I Learned
+## 🚀 What I Learned
 How to blend SQL and Excel for end-to-end analysis
 
 Importance of data integrity and adjusting raw exports (e.g., handling order ID duplication)
@@ -91,5 +97,5 @@ Building visually appealing and business-friendly dashboards
 
 Extracting meaningful insights from transactional data
 
-🎮 Why Pizza?
+## 🎮 Why Pizza?
 Pizza is universally loved—and like any good product, its sales patterns reveal fascinating insights about customer habits, preferences, and behavior. This project was as much fun to build as it is to explore!
